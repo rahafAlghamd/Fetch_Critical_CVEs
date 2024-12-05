@@ -56,8 +56,6 @@ Install the required dependencies:
 
 ```bash
 python.exe -m pip install bs4
-
-## Example
-
-## Demo
 pip install beautifulsoup4
+
+
