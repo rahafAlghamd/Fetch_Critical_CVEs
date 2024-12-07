@@ -64,6 +64,7 @@ pip install beautifulsoup4
 </video>
 
 ## Example
-![Description of the image](path/to/image.png)
+![Description of the image]([path/to/image.png](https://github.com/rahafAlghamd/Fetch_Critical_CVEs/blob/main/Capture2.PNG))
+![Description of the image]((https://github.com/rahafAlghamd/Fetch_Critical_CVEs/blob/main/Capture1.PNG)
 
 
