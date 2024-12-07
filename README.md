@@ -22,7 +22,7 @@ With a user-friendly interface, this tool simplifies CVE management, enhances vu
 ## Features
 
 ### Efficient CVE Retrieval
-- Automatically fetches CVEs based on severity (e.g., critical).
+- Automatically fetches CVEs based on severity (critical).
 - Filters results using user-defined criteria, such as publication date ranges.
 
 ### Customizable Date Filtering
