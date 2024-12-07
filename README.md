@@ -58,4 +58,7 @@ Install the required dependencies:
 python.exe -m pip install bs4
 pip install beautifulsoup4
 
+![Video Preview](https://github.com/rahafAlghamd/Fetch_Critical_CVEs/blob/main/Fetch_critical_CVEs.mp4)
+[Download Video](https://github.com/rahafAlghamd/Fetch_Critical_CVEs/blob/main/Fetch_critical_CVEs.mp4)
 
+https://github.com/rahafAlghamd/Fetch_Critical_CVEs/blob/main/Fetch_critical_CVEs.mp4
