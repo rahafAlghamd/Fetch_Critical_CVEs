@@ -58,6 +58,7 @@ pip install beautifulsoup4
 ```
 ---
 ## Demo
+![Video Demo](https://github.com/rahafAlghamd/Fetch_Critical_CVEs/blob/main/Fetch_critical_CVEs.mp4)
 ![Video Demo](https://github.com/rahafAlghamd/Fetch_Critical_CVEs/blob/main/Fetch_critical_CVEs-gif.gif)
 
 
