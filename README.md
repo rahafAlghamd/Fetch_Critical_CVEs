@@ -58,10 +58,7 @@ pip install beautifulsoup4
 ```
 ---
 ## Demo
-<video controls>
-  <source src="(https://github.com/rahafAlghamd/Fetch_Critical_CVEs/blob/main/Fetch_critical_CVEs.mp4)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+(https://github.com/rahafAlghamd/Fetch_Critical_CVEs/blob/main/Fetch_critical_CVEs-gif.gif)
 
 ## Example
 ![Example 2](https://github.com/rahafAlghamd/Fetch_Critical_CVEs/blob/main/Capture2.PNG)
